@@ -9,7 +9,6 @@ public class person {
         this.nationality=nationality;
         this.dateOfBirth=dateOfBirth;
         this.seatNumber=seatNumber;
-
     }
 
     public static void main(String[] args){
@@ -17,3 +16,5 @@ public class person {
         System.out.println("\nname:"+p.name+ "\nnationality:"+p.nationality+ "\ndateOfBirth:"+p.dateOfBirth+ "\nSeatNumber:"+p.seatNumber);
     }
 }
+
+
